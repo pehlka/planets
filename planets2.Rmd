@@ -1,0 +1,19 @@
+---
+title: "planets2"
+author: "Kayla Pehl"
+date: "1/23/2020"
+output: html_document
+---
+
+```{r}
+#This is how I will determine which planet to set up my base on.
+
+saturn <- 14
+mars <- 10
+venus <- 15
+```
+
+```{r}
+sum(mars, venus)
+```
+

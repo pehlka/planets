@@ -20,3 +20,7 @@ sum(saturn, mars, venus)
 ```{r}
 mean(round(abs(saturn), mars), venus)
 ```
+
+```{r}
+diff(venus, mars)
+```

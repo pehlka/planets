@@ -17,3 +17,6 @@ venus <- 15
 sum(mars, venus)
 ```
 
+```{r}
+mean(saturn, mars, venus)
+```

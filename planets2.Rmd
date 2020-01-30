@@ -24,3 +24,4 @@ mean(round(abs(saturn), mars), venus)
 ```{r}
 diff(venus, mars)
 ```
+planets are cool
